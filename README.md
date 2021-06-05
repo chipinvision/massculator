@@ -1,24 +1,28 @@
-# Stateful Click Counter
+# Massculator - BMI Calculator wriiten with Flutter
 
-A new Flutter project created with [FlutLab](https://flutlab.io)
+![appban](https://user-images.githubusercontent.com/72114434/120896006-29b58a00-c63d-11eb-8ffb-2bb8b047383b.png)
 
-### Getting Started: FlutLab - Flutter Online IDE
+### Technologies Used:
+- Flutter Framework
+- Dart Language
 
-- Watch Mini crash course "How to use Flutter Widgets" on [FlutLab Youtube Channel](https://www.youtube.com/channel/UC7ZOPQm4JFlvBc9WeynLX_g)
-- Discover a marketplace of ready-to-use Flutter projects [FlutLab Widget Bay](https://widgetbay.flutlab.io/)
-- Join the discussion and conversation on [FlutLab Facebook Group](https://www.facebook.com/groups/flutlab/)
+### Open-Source BMI Calculator App
 
-If you have some questions regarding FlutLab, you can ask on [FlutLab FAQ](https://faq.flutlab.io/)
+- You can modify this app according to your choice
+- If you are a Flutter Developer, then it is a great begiiner friendly project
 
-### Getting Started: Flutter
+### Download the app
+[Download](https://drive.google.com/file/d/11Fcef9XXozvp8eOCBJ1j1KdX-N-mnhr7/view?usp=sharing)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Contact Information
+
+- Follow me on Instagram: [@invisionchip](https://www.instagram.com/invisionchip)
+- Find me on Twitter: [@invisionchip](https://twitter.com/invisionchip)
+- My YouTube Channel: [invisionchip](https://www.youtube.com/channel/UCafeVMVotqWH7jKOR5wzoYA)
+- Contact me through [WhatsApp](https://api.whatsapp.com/send?phone=+919437007938&text=&source=&data=&app_absent=)
+
+
+Made with :heart: by Suresh Mishra
